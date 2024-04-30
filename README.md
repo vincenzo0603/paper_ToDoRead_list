@@ -15,9 +15,11 @@
 ## Map-Aided Lidar Odometry
 - DMLL:...
 - LOL: Lidar-only Odometry and Localization in 3D point cloud maps(open code)
-- 
 
 
+## Lidar Intensity
+
+- COIN-LIO: Complementary Intensity-Augmented LiDAR Inertial Odometry (Intensity-Augmented + fast-lio)(开源)
 
 
 
