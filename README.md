@@ -17,11 +17,16 @@
 - DMLL:...
 - LiDAR Inertial Odometry Aided Robust LiDAR Localization System in Changing City Scenes
 - LOL: Lidar-only Odometry and Localization in 3D point cloud maps(open code)
+- LiDAR localization at 100 FPS: A map-aided and template descriptor-based global method（open code） **
 
 
 ## Lidar Intensity
 
 - COIN-LIO: Complementary Intensity-Augmented LiDAR Inertial Odometry (Intensity-Augmented + fast-lio)(开源)
+
+## 退化环境
+
+- X-ICP: Localizability-Aware LiDAR Registration for Robust Localization in Extreme Environments
 
 
 
