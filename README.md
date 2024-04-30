@@ -4,6 +4,7 @@
 
 - DMLL: Differential-Map-Aided LiDAR-Based Localization:基于差分地图辅助 LiDAR 的定位
 - Tightly Coupled Range Inertial Localization on a 3D Prior Map Based on Sliding Window Factor Graph Optimization (闭源)
+- 1-Day Learning, 1-Year Localization: Long-Term LiDAR Localization Using Scan Context Image
 
 
 ## life long
