@@ -26,10 +26,11 @@
 
 ## 退化环境
 
+未开源：
 - X-ICP: Localizability-Aware LiDAR Registration for Robust Localization in Extreme Environments
+- Direct LiDAR-Inertial Odometry:Lightweight LIO with Continuous-Time Motion Correction
 
-
-
+开源：
 
 
 
