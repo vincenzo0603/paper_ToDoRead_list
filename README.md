@@ -1,11 +1,14 @@
 # paper_ToDoRead_list
 
-## localization
+## localization（带有全局位姿信息的）
 
 - DMLL: Differential-Map-Aided LiDAR-Based Localization:基于差分地图辅助 LiDAR 的定位
+
 - Tightly Coupled Range Inertial Localization on a 3D Prior Map Based on Sliding Window Factor Graph Optimization (闭源)
+
 - 1-Day Learning, 1-Year Localization: Long-Term LiDAR Localization Using Scan Context Image
 
+- LIGO: Tightly Coupled LiDAR-Inertial-GNSS Odometry based on a Hierarchy Fusion Framework for Global Localization with Real-time Mapping（待开源）
 
 ## life long
 
@@ -32,7 +35,8 @@
 
 开源：
 
-
+## 偏向于建图
+- DMSA - Dense Multi Scan Adjustment for LiDAR Inertial Odometry and Global Optimization（Multi Scan Adjustment，离线建图，不能实时，开源）
 
 
 
