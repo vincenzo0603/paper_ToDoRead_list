@@ -32,6 +32,7 @@
 未开源：
 - X-ICP: Localizability-Aware LiDAR Registration for Robust Localization in Extreme Environments
 - Direct LiDAR-Inertial Odometry:Lightweight LIO with Continuous-Time Motion Correction
+- COIN-LIO: Complementary Intensity-Augmented LiDAR Inertial Odometry (Intensity-Augmented + fast-lio)(开源)
 
 开源：
 
@@ -39,5 +40,17 @@
 - DMSA - Dense Multi Scan Adjustment for LiDAR Inertial Odometry and Global Optimization（Multi Scan Adjustment，离线建图，不能实时，开源）
 
 
+## 位置识别
+
+SC Family
+- Scan context: Egocentric spatial descriptor for place recognition within 3d point cloud map, IROS 2018.
+- Scan Context++: Structural Place Recognition Robust to Rotation and Lateral Variations in Urban Environments, TRO 2021.
+- Intensity scan context: Coding intensity and geometry relations for loop closure detection, ICRA 2020.
+- Weighted scan context: Global descriptor with sparse height feature for loop closure detection, ICCCR 2021.
+- Fresco: Frequency-domain scan context for lidar-based place recognition with translation and rotation invariance, ICARCV 2022.
+- Global place recognition using an improved scan context for lidar-based localization system, AIM 2021.
+
+Other
+- STD: A Stable Triangle Descriptor for 3D place recognition
 
 ## 想法：只保留描述子，不保留点云定位
