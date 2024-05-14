@@ -39,6 +39,8 @@
 ## 偏向于建图
 - DMSA - Dense Multi Scan Adjustment for LiDAR Inertial Odometry and Global Optimization（Multi Scan Adjustment，离线建图，不能实时，开源）
 
+## just lidar odometry
+- Kiss-icp: In defense of point-to-point icp–simple, accurate, and robust registration if done the right way
 
 ## 位置识别
 
