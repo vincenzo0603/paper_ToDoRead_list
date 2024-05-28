@@ -13,6 +13,7 @@
 ## life long
 
 - SLAM-RAMU: 3D LiDAR-IMU lifelong SLAM with relocalization and autonomous map updating for accurate and reliable navigation
+- A General Framework for Lifelong Localization and Mapping in Changing Environment （适用于地面机器人）
 
 ## LO or LIO
 
