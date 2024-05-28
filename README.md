@@ -14,20 +14,20 @@
 
 - SLAM-RAMU: 3D LiDAR-IMU lifelong SLAM with relocalization and autonomous map updating for accurate and reliable navigation
 
+## LO or LIO
 
-
-## Map-Aided Lidar Odometry
+### Map-Aided Lidar Odometry
 - DMLL:...
 - LiDAR Inertial Odometry Aided Robust LiDAR Localization System in Changing City Scenes
 - LOL: Lidar-only Odometry and Localization in 3D point cloud maps(open code)
 - LiDAR localization at 100 FPS: A map-aided and template descriptor-based global method（open code） **
 
 
-## Lidar Intensity
+### Lidar Intensity
 
 - COIN-LIO: Complementary Intensity-Augmented LiDAR Inertial Odometry (Intensity-Augmented + fast-lio)(开源)
 
-## 退化环境
+### 退化环境
 
 未开源：
 - X-ICP: Localizability-Aware LiDAR Registration for Robust Localization in Extreme Environments
@@ -38,9 +38,11 @@
 
 ## 偏向于建图
 - DMSA - Dense Multi Scan Adjustment for LiDAR Inertial Odometry and Global Optimization（Multi Scan Adjustment，离线建图，不能实时，开源）
+- NV-LIO: LiDAR-Inertial Odometry using Normal Vectors Towards Robust SLAM in Multifloor Environments （Normal Vector、Multifloor）
 
 ## just lidar odometry
 - Kiss-icp: In defense of point-to-point icp–simple, accurate, and robust registration if done the right way
+- Traj-LO: In Defense of LiDAR-Only Odometry Using an Effective Continuous-Time Trajectory （利用数百万点的时间信息和连续轨迹的内在平滑性，实现了时空一致的配准）
 
 ## 位置识别
 
